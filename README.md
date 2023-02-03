@@ -10,3 +10,14 @@
 - Navigation Component(pass argument)
 - Retrofit 2
 - View pager
+
+აპლიკაციის Flow:
+
+### მთავარი გვერდი ###
+![KotlinApp1](https://user-images.githubusercontent.com/55915575/216688487-1fa11e56-9ff6-411a-8cdc-9f55822f8c2b.png)
+
+### დეტალური ინფორმაციის გვერდი ###
+![KotlinDetailMovie](https://user-images.githubusercontent.com/55915575/216688581-bc726ad4-07ab-4fe4-aef4-9e90baab6b70.png)
+
+### Bookmark-ების გვერდი ###
+https://github.com/nika-metreveli/NM_KotlinFinal/issues/3#issue-1570324334
