@@ -20,4 +20,4 @@
 ![KotlinDetailMovie](https://user-images.githubusercontent.com/55915575/216688581-bc726ad4-07ab-4fe4-aef4-9e90baab6b70.png)
 
 ### Bookmark-ების გვერდი ###
-https://github.com/nika-metreveli/NM_KotlinFinal/issues/3#issue-1570324334
+![KotlinBookmark](https://user-images.githubusercontent.com/55915575/216688632-da2d7596-a6ea-44fb-a192-f4f3a7681171.png)
